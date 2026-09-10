@@ -43,9 +43,9 @@ Usuário está na tela de login.
 O sistema deve impedir o login e apresentar uma mensagem de erro.
 
 **Resultado obtido:**  
-A preencher após a execução do teste.
+O sistema impediu o login e apresentou a mensagem: "Que triste: O nome de usuário e a senha não correspondem a nenhum usuário neste serviço."
 
-**Status:** A EXECUTAR
+**Status:** PASS
 
 
 ---
@@ -64,9 +64,9 @@ Usuário está na tela de login.
 O sistema deve impedir o login e apresentar uma mensagem informando que os campos são obrigatórios.
 
 **Resultado obtido:**  
-A preencher após a execução do teste.
+O sistema impediu o login e apresentou a mensagem: "Cara triste épica: É necessário nome de usuário."
 
-**Status:** A EXECUTAR
+**Status:** PASS
 
 
 ---
@@ -85,9 +85,9 @@ Usuário está autenticado e na página de produtos.
 O produto deve ser adicionado ao carrinho corretamente.
 
 **Resultado obtido:**  
-A preencher após a execução do teste.
+O produto Mochila Sauce Labs foi adicionado ao carrinho e apareceu corretamente.
 
-**Status:** A EXECUTAR
+**Status:** PASS
 
 
 ---
@@ -106,6 +106,6 @@ Usuário possui um produto no carrinho.
 O produto deve ser removido do carrinho.
 
 **Resultado obtido:**  
-A preencher após a execução do teste.
+O produto Mochila Sauce Labs foi removido do carrinho corretamente.
 
-**Status:** A EXECUTAR
+**Status:** PASS
